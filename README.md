@@ -52,6 +52,7 @@ curated list of top AI Tools.
 | bigJPG | Increasing image resolution | [🔗](https://bigjpg.com/)|
 | Profile Pic Maker | Creating profile pictures | [🔗](https://pfpmaker.com/)|
 | Musicfy | Create AI covers of your favorite songs in seconds | [🔗](https://www.musicfy.lol/)
+| CopyCat | Create AI deepfakes of famous celebrities | [🔗](https://www.copycat.actor/)
 
 
 ## E-commerce
